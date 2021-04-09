@@ -11,6 +11,7 @@ UserInterfaceState.xcuserstate
 $RECYCLE.BIN/
 node_modules
 secret.js
+build 
 
 *.log
 log.txt
